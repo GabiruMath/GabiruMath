@@ -1,6 +1,6 @@
 =-=-=-=-=-=-=-=-=-=-=-=-= <h1>Gabriel Matheus</h1>
 
-Estudante de programação, morador de Sorocaba-SP, 19 anos, em busca do 1° estágio.<br>
+Estudante de programação, morador de Sorocaba-SP, 19 anos.<br>
 Minha vontade é ser um desenvolvedor full-stack e estou estudando para realizar essa vontade<br>
 
 =-=-=-=-=-=-=-=-=-=-=-=-= Conhecimentos =-=-=-=-=-=-=-=-=-=-=-=-=<br><br>
